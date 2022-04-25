@@ -2,7 +2,7 @@
  * @Author: Your name
  * @Date:   2021-11-21 10:03:26
  * @Last Modified by:   Your name
- * @Last Modified time: 2022-03-22 19:36:20
+ * @Last Modified time: 2022-04-23 00:54:26
  */
 /**
 * Template Name: Folio - v4.7.0
@@ -503,8 +503,11 @@ p {
 }
 
 #about .div-img-bg {
-  padding-bottom: 30px;
+  padding-bottom: 0px;
+  padding-right: 0px;
   border: 20px solid #b8a07e;
+  width:372px;
+  height:263px;
 }
 
 #about .div-img-bg .about-img img {
