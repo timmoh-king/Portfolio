@@ -398,8 +398,9 @@ p {
 # Hero
 --------------------------------------------------------------*/
 #hero {
-  background: url("../img/kariuki.jpg") repeat scroll center center/cover;
-  height: 100vh;
+  /* background: url("../img/kariuki.jpg") repeat scroll center center/cover; */
+  background: url("https://ik.imagekit.io/houseofcoders/wp-content/uploads/2017/10/portfolio-background.png") repeat scroll center center/cover;
+  height: 95vh;
   width: 100%;
 }
 
@@ -499,7 +500,7 @@ p {
   width: 100%;
   height: auto;
   background: #f7f7f7;
-  padding-top: 120px;
+  padding-top: 100px;
 }
 
 #about .div-img-bg {
